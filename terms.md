@@ -1,7 +1,7 @@
 1. 心得
 
->Don’t be a Dick
->- SCP-JP 公式Discordより引用
+    >Don’t be a Dick
+    >- SCP-JP 公式Discordより引用
 
     1. **他人に敬意**を持って接する。
     2. 今は知識がついてわかっている人も最初は初心者、それを忘れず驕らず昂らず。
